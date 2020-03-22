@@ -16,6 +16,8 @@
 Для полного понимания лекции достаточно знания тем ОГЭ по информатике, физике, а
 также минимального опыта программирования, например, на Паскале.
 
+![schematics in russian](https://github.com/phikimon/programming-on-desert-island/raw/master/resources/schematic_new_rus.jpg "schematics in russian")
+
 ## Master class "Programming on desert island" (for high school students)
 
 In the lecture it is explained and showed in practice how to program an emergency beacon for rescue from
@@ -31,6 +33,8 @@ machine codes, bus interface and burning firmware to the bare device.
 
 For a complete understanding of the covered material, basic knowledge of computer science
 also minimal programming experience(e.g. using Pascal) is required.
+
+![schematics in english](https://github.com/phikimon/programming-on-desert-island/raw/master/resources/schematic_new_eng.jpg "schematics in english")
 
 ### TODO
 
