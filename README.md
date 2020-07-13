@@ -40,3 +40,7 @@ also minimal programming experience(e.g. using Pascal) is required.
 
 * Fix codestyle in .tex files
 * Translate lecture itself into English :)
+
+### Credits
+
+Based on the idea by Habr's user [Ocelot](https://habr.com/ru/users/Ocelot/), also title picture is taken from his post.
